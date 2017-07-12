@@ -1,0 +1,22 @@
+{
+  "name": "oleg-chulakov-studio/yii2-filesaver",
+  "description": "Yii2 behavior for saving file in model",
+  "license": "BSD 3-Clause",
+  "type": "yii2-behaviors",
+  "require": {
+    "php": ">=5.4.0",
+    "sem-soft/yii2-filestorage": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Lilit Babayan",
+      "email": "lb@chulakov.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "OlegChulakovStudio\\filesaver\\": "",
+      "OlegChulakovStudio\\filesaver\\behaviors\\": ""
+    }
+  }
+}
